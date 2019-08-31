@@ -1,0 +1,18 @@
+{
+  "name": "jsbasicbot2",
+  "version": "1.0.0",
+  "description": "Bot Chen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "vinesmsuic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1",
+    "nodemon": "^1.17.5",
+    "superagent": "^3.8.3"
+  }
+}
